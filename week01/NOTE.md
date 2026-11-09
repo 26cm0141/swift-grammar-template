@@ -3,7 +3,7 @@
 > **氏名：** （自分の名前）
 > **最終更新：** YYYY-MM-DD
 > **AI利用レベル：** 演習は 2（生成コード可・4点セット必須）
-> **リファレンス：** swift-grammar-code の `reference/01_basics.md`
+> **リファレンス：** swift-grammar-code の [`reference/01_basics.md`](https://github.com/NakasenJEC/swift-grammar-code/blob/main/reference/01_basics.md)
 
 ---
 
